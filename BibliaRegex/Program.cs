@@ -1,13 +1,13 @@
-﻿using HtmlAgilityPack;
-using System;
-using System.Linq;
-using System.Text;
-using System.Net;
-using System.Text.RegularExpressions;
-using System.Collections.Generic;
-using BibliaRegex.Models;
-using System.IO;
+﻿using BibliaRegex.Models;
+using HtmlAgilityPack;
 using Newtonsoft.Json;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Net;
+using System.Text;
+using System.Text.RegularExpressions;
 
 namespace BibliaRegex
 {
